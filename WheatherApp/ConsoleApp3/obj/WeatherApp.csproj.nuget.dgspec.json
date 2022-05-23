@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan_Ihnatsenka\\source\\repos\\ConsoleApp3\\ConsoleApp3\\WeatherApp.csproj": {}
+    "C:\\Users\\Ivan_Ihnatsenka\\Documents\\GitHub\\IndiaNetStream\\WheatherApp\\ConsoleApp3\\WeatherApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan_Ihnatsenka\\source\\repos\\ConsoleApp3\\ConsoleApp3\\WeatherApp.csproj": {
+    "C:\\Users\\Ivan_Ihnatsenka\\Documents\\GitHub\\IndiaNetStream\\WheatherApp\\ConsoleApp3\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan_Ihnatsenka\\source\\repos\\ConsoleApp3\\ConsoleApp3\\WeatherApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan_Ihnatsenka\\Documents\\GitHub\\IndiaNetStream\\WheatherApp\\ConsoleApp3\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\Ivan_Ihnatsenka\\source\\repos\\ConsoleApp3\\ConsoleApp3\\WeatherApp.csproj",
+        "projectPath": "C:\\Users\\Ivan_Ihnatsenka\\Documents\\GitHub\\IndiaNetStream\\WheatherApp\\ConsoleApp3\\WeatherApp.csproj",
         "packagesPath": "C:\\Users\\Ivan_Ihnatsenka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan_Ihnatsenka\\source\\repos\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\Users\\Ivan_Ihnatsenka\\Documents\\GitHub\\IndiaNetStream\\WheatherApp\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan_Ihnatsenka\\AppData\\Roaming\\NuGet\\NuGet.Config",

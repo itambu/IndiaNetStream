@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp3
+namespace WeatherApp
 {
     public class Station
     {
@@ -34,5 +34,7 @@ namespace ConsoleApp3
             Sensors = sensors;
             Values = values;
         }
+
+
     }
 }

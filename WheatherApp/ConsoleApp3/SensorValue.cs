@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp3
+namespace WeatherApp
 {
-    public class SensorValue
+    public abstract class SensorValue
     {
-        public double Value { get; set; }
+        public double Value { get; private set; }
 
-        public SensorType Type { get; private set; } 
+        //public abstract void Validate();
 
-        public SensorValue(SensorType type)
+        public SensorValue(double value)
         {
-            Type = type;
+            Value = value;
         }
     }
 }

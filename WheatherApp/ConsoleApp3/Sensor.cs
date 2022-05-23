@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp3
+namespace WeatherApp
 {
     public abstract class Sensor
     {
-        SensorValue _value;
+        private SensorValue _value;
 
         public SensorValue Value 
         {
@@ -16,11 +16,9 @@ namespace ConsoleApp3
         public string Name { get; set; }
 
         public abstract void Generate();
-       
 
-        public Sensor(SensorValue value, string name) 
+        public Sensor(string name) 
         {
-            Value = value;
             Name = name;
         }
 

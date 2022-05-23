@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="ConsoleApp3.Sensor">
-    <Position X="6.75" Y="0.75" Width="1.5" />
+  <Class Name="WeatherApp.Sensor">
+    <Position X="8.5" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ABAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAEAAAAA=</HashCode>
       <FileName>Sensor.cs</FileName>
@@ -10,18 +10,15 @@
       <Property Name="Value" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="ConsoleApp3.SensorValue">
+  <Class Name="WeatherApp.SensorValue">
     <Position X="0.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
       <FileName>SensorValue.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="Type" />
-    </ShowAsAssociation>
   </Class>
-  <Class Name="ConsoleApp3.Station">
-    <Position X="3.25" Y="3.25" Width="1.5" />
+  <Class Name="WeatherApp.Station">
+    <Position X="6.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAIACAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
       <FileName>Station.cs</FileName>
@@ -31,19 +28,47 @@
       <Property Name="Values" />
     </ShowAsCollectionAssociation>
   </Class>
-  <Class Name="ConsoleApp3.WindPowerSensor">
-    <Position X="5.5" Y="3.75" Width="1.5" />
+  <Class Name="WeatherApp.WindPowerSensor">
+    <Position X="8.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
       <FileName>WindPowerSensor.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Enum Name="ConsoleApp3.SensorType">
+  <Class Name="WeatherApp.WindPowerValue">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WindPowerValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeatherApp.TemperatureSensorValue">
     <Position X="0.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAEAAA=</HashCode>
-      <FileName>SensorType.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemperatureSensorValue.cs</FileName>
     </TypeIdentifier>
-  </Enum>
+  </Class>
+  <Class Name="WeatherApp.PressureValue">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PressureValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeatherApp.TemperatureSensor">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TemperatureSensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeatherApp.PressureSensor">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>PressureSensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
