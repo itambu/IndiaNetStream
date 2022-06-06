@@ -1,0 +1,14 @@
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\bin\Debug\netcoreapp3.1\LinqExample2.exe
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\bin\Debug\netcoreapp3.1\LinqExample2.deps.json
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\bin\Debug\netcoreapp3.1\LinqExample2.runtimeconfig.json
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\bin\Debug\netcoreapp3.1\LinqExample2.runtimeconfig.dev.json
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\bin\Debug\netcoreapp3.1\LinqExample2.dll
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\bin\Debug\netcoreapp3.1\LinqExample2.pdb
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.csproj.AssemblyReference.cache
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.AssemblyInfoInputs.cache
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.AssemblyInfo.cs
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.dll
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.pdb
+C:\Users\Ivan_Ihnatsenka\source\repos\LinqExample2\LinqExample2\obj\Debug\netcoreapp3.1\LinqExample2.genruntimeconfig.cache
